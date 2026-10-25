@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "yzc8092",
     "password": "",
     "type": "offline"
   },
   "server": {
-        "ip": "yzc3160.gamersfreedom.com",
-        "port": 25989,
+        "ip": "server.hoster24.org",
+        "port": 24925,
     "version": "",
     "try-creative": false
   },
